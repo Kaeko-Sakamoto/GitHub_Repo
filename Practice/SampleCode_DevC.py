@@ -11,7 +11,7 @@ def initial():
     return ret_code
 
 def __end_edge():
-    ret_code = "000"
+    ret_code = "999"
     print(tab,this_mod_name, "処理終了。( RC=",ret_code,")")    
 
     return ret_code
